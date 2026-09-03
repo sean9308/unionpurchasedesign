@@ -1,0 +1,6 @@
+{
+  "url": "https://gitee.com/gendama/unionpurchasedesign/releases/download/v1.1.0/unionpurchase.apk",
+  "versionCode": 2,
+  "version": "1.1.0",
+  "note": "v1.1.0 更新内容：\n1. 每个采购需求生成6套差异化方案，品类各有侧重、互不重复；\n2. 预算用满，允许小幅超出（不超预算3%或3元）；\n3. 商品库扩充至98个，标注真实品牌/规格/来源/商超零售价；\n4. 点击商品图片查看详情（品牌/规格/来源/官方价）；\n5. Excel导出新增品牌/来源列，可直接用于上会；\n6. 本版本起支持在线更新，老用户覆盖安装升级，收藏数据不丢失。"
+}
